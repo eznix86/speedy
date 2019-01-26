@@ -1,0 +1,27 @@
+{
+  "name": "speedy",
+  "version": "1.0.0",
+  "description": "Speedy is a nodeJS  file downloader",
+  "main": "app.js",
+  "dependencies": {
+    "ora": "^3.0.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theArtechnology/speedy.git"
+  },
+  "keywords": [
+    "download"
+  ],
+  "author": "Bernard Joseph Jean Bruno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theArtechnology/speedy/issues"
+  },
+  "homepage": "https://github.com/theArtechnology/speedy#readme"
+}
